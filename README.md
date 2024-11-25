@@ -3,7 +3,7 @@
 
 # Juba Teaching Hospital Appointment System  
 
-![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(1).png)  
+![](https://github.com/Dau2004/Juba-Teaching-Hospital/blob/main/Screenshots/Screenshot%202024-11-25%20122408.png)  
 
 This project addresses the challenges of hospital overcrowding and inefficient appointment scheduling, especially at Juba Teaching Hospital in South Sudan. It enables patients to book appointments online, reduces unnecessary visits, and allows doctors to manage their schedules effectively. Administrators oversee the system by managing doctors, sessions, and patient data.  
 
