@@ -36,7 +36,7 @@ The system has three user roles:
 - Book appointments online with doctors.  
 - View booking history and manage future appointments.  
 
-![](https://github.com/Dau2004/Juba-Teaching-Hospital/blob/main/Screenshots/Screenshot%202024-11-25%20114539.png)  
+![](https://github.com/Dau2004/Juba-Teaching-Hospital/blob/main/Screenshots/Screenshot%202024-11-25%20114437.png)  
 
 ---
 
