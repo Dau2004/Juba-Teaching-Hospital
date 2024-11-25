@@ -62,7 +62,7 @@ Ensure you have the following installed:
    - Import the provided SQL file (`juba_hospital.sql`) from the root folder of the project.  
 
 4. **Access the Application:**  
-   - Visit the app in your browser via [http://localhost/juba_hospital](http://localhost/juba_hospital).  
+   - Visit the app in your browser via [http://localhost/juba_hospital](http://localhost/edoc-doctor-appointment-system-main_1).  
 
 ### 3. Built-in Accounts  
 Use the following demo accounts for testing:  
