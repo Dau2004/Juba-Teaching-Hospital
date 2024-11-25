@@ -22,7 +22,7 @@ The system has three user roles:
 - View patient details and manage their records.  
 - Oversee all bookings and system operations.  
 
-![](https://github.com/Dau2004/Juba-Teaching-Hospital/blob/main/Screenshots/Screenshot%202024-11-25%20113211.png)  
+![](https://github.com/Dau2004/Juba-Teaching-Hospital/blob/main/Screenshots/Screenshot%202024-11-25%20114539.png)  
 
 ### Doctors:  
 - View their appointments and scheduled sessions.  
