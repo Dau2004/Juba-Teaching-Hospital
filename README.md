@@ -22,14 +22,14 @@ The system has three user roles:
 - View patient details and manage their records.  
 - Oversee all bookings and system operations.  
 
-![](C:\Users\Hp\Desktop\Juba Teaching Hospital App\Screenshots\Screenshot 2024-11-25 113211.png)  
+![](https://github.com/Dau2004/Juba-Teaching-Hospital/blob/main/Screenshots/Screenshot%202024-11-25%20113211.png)  
 
 ### Doctors:  
 - View their appointments and scheduled sessions.  
 - Access patient details for consultations.  
 - Update or delete their accounts.  
 
-![](C:\Users\Hp\Desktop\Juba Teaching Hospital App\Screenshots\Screenshot 2024-11-25 113211.png)  
+![](https://github.com/Dau2004/Juba-Teaching-Hospital/blob/main/Screenshots/Screenshot%202024-11-25%20113211.png)  
 
 ### Patients:  
 - Create accounts and manage profiles.  
