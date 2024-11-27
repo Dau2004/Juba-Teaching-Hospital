@@ -1,11 +1,8 @@
-
----
-
 # Juba Teaching Hospital Appointment System  
 
 ![](https://github.com/Dau2004/Juba-Teaching-Hospital/blob/main/Screenshots/Screenshot%202024-11-25%20122408.png)  
 
-This project addresses the challenges of hospital overcrowding and inefficient appointment scheduling, especially at Juba Teaching Hospital in South Sudan. It enables patients to book appointments online, reduces unnecessary visits, and allows doctors to manage their schedules effectively. Administrators oversee the system by managing doctors, sessions, and patient data.  
+This project addresses the challenges of hospital overcrowding and inefficient appointment scheduling, especially at Juba Teaching Hospital in South Sudan. It enables patients to book appointments online.
 
 The system has three user roles:  
 1. **Administrator**  
@@ -62,7 +59,7 @@ Ensure you have the following installed:
    - Import the provided SQL file (`juba_hospital.sql`) from the root folder of the project.  
 
 4. **Access the Application:**  
-   - Visit the app in your browser via [http://JubaHospital.000.pe](http://JubaHospital.000.pe).  
+   - Visit the hosted app via [http://JubaHospital.000.pe](http://JubaHospital.000.pe).  
 
 ### 3. Built-in Accounts  
 Use the following demo accounts for testing:  
@@ -76,7 +73,7 @@ Use the following demo accounts for testing:
 - **Password:** 123  
 
 **Patient:**  
-- **Email:** patient@juba.com  
+- **Email:** choldaniel700@gmail.com  
 - **Password:** 123  
 
 ---
@@ -87,4 +84,3 @@ Use the following demo accounts for testing:
 - **MySQL Version:** 5.7.26  
 
 ---
-
